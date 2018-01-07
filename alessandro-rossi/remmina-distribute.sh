@@ -10,6 +10,7 @@ for user in $utenti; do
         sed "s/10.2.60.100/$IP/g" VM.remmina > VM-$IP.remmina
         cp VM-$IP.remmina /home/$user/Scrivania/
         sed "s/VM.remmina/VM-$IP.remmina/g" remoto.sh > /home/$user/Desktop/ProvaRemoto/remoto-$IP.sh
-    #cambiato percorso
+    #cambiato percorsokhkhh
+    hbhgh
     done
 done
