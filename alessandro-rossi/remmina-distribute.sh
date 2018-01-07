@@ -11,6 +11,6 @@ for user in $utenti; do
         cp VM-$IP.remmina /home/$user/Scrivania/
         sed "s/VM.remmina/VM-$IP.remmina/g" remoto.sh > /home/$user/Desktop/ProvaRemoto/remoto-$IP.sh
     #cambiato percorsokhkhh
-    hbhgh
+    hbhghjsajsasaasdsad
     done
 done
